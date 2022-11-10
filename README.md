@@ -1,2 +1,2 @@
-# metodosArray
-Aprendendo sobre os métodos de Array com a Alura. (Filter, forEach, Map, Reduce, Sort)
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
